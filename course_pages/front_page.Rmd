@@ -1,31 +1,35 @@
-# Synthesis Statistics in E&E
+---
+title: "Synthesis Statistics in E&E"
+output: html_document
+date: "Fall 2023"
+---
 
-This is a module of the CIEE Living Data Project. Access to this Canvas site and associated materials is restricted to registered participants. To find out more about the Living Data Project, visit [https://www.ciee-icee.ca/ldp.html!](https://www.ciee-icee.ca/ldp.html).
+This is a module of the CIEE Living Data Project. Access to this Canvas site and associated materials is restricted to registered participants. To find out more about the Living Data Project, visit <https://www.ciee-icee.ca/ldp.html>.
 
 ![welcome_synthesis.jpg](https://canvas.ubc.ca/courses/97664/files/19784678/preview){alt="welcome_synthesis.jpg"}
 
-### Teaching team
+## Teaching team
 
-#### Lead instructor(s):
+### Lead instructor(s):
 
 -   Prof. Laura Pollock, McGill University ([laura.pollock\@mcgill.ca](mailto:laura.pollock@mcgill.ca))
 -   Prof. Jennifer Sunday, McGill University ([jennifer.sundary\@mcgill.ca](mailto:jennifer.sundary@mcgill.ca))
 
-#### LDP postdocs:
+### LDP postdocs:
 
 -   Dr. Gracielle Higino, University of British Columbia---Vancouver ([higino\@zoology.ubc.ca](mailto:higino@zoology.ubc.ca))
 -   Dr. Mike Lavender, University of Regina ([thomas.lavender\@uregina.ca](mailto:thomas.lavender@uregina.ca))
 -   Dr. Sam Straus, McGill University and Université de Montréal ([samantha.straus\@mcgill.ca](mailto:samantha.straus@mcgill.ca))
 
-#### Teaching assistants:
+### Teaching assistants:
 
 -   Liam Johnson, University of British Columbia---Okanagan ([liamgwj\@mail.ubc.ca](mailto:liamgwj@mail.ubc.ca))
 
-### Course description
+## Course description
 
 This course will provide an introduction and overview of approaches for synthesizing the highly structured, multi-sourced datasets that typify ecology, evolution, and environmental research, including data collation, integration, analysis, and visualization. Students will learn how to define their research question and scope in the context of other studies in their subfield and how to find and fill in gaps in understanding with additional datasets. We will also provide a broad overview of the different types of methods used for synthesizing data including hierarchical models, meta-analysis, model integration, and model updating, providing students a guide to navigating these methods and identifying methods to learn and use in their research. Students will develop skills in R programming, collaborative research, reproducible workflows, data analysis, and communication.
 
-### Meeting times
+## Meeting times
 
 04 October to 03 November 2022
 
@@ -41,7 +45,7 @@ Week 4: Tue 01 November ([lesson 7](https://canvas.ubc.ca/courses/97664/modules/
 
 ### Zoom link
 
-[https://ubc.zoom.us/j/69764176305?pwd=QkhBV0tSd0E0NlQ0U0xnZGJJWjR2UT09!](https://ubc.zoom.us/j/69764176305?pwd=QkhBV0tSd0E0NlQ0U0xnZGJJWjR2UT09)
+<https://ubc.zoom.us/j/69764176305?pwd=QkhBV0tSd0E0NlQ0U0xnZGJJWjR2UT09>
 
 Meeting ID: 697 6417 6305\
 Passcode: 401349
@@ -56,46 +60,42 @@ Dial by your location\
 +1 587 328 1099 (Alberta)\
 +1 613 209 3054 (Ottawa)
 
-### Delivery format
+## Delivery format
 
 -   8 sessions, 1.5 hours per session
 -   Each week, there will be one session (Tuesday) primarily used for lecture and discussion, and one session (Thursday) of primarily hands-on training activities
 
-### Anticipated time commitment
+## Anticipated time commitment
 
 In general, students in each Living Data Project module should anticipate approximately 30-45 work hours, in line with the normal expectations for one credit of coursework. This will comprise the following activities: 12 hours formal instruction in a class setting, 4 hours of individual/small group mentoring, 5 hours of preparatory reading, up to 15 hours on required assignments.
 
-### Pre-requisites and pre-course preparations
+## Pre-requisites and pre-course preparations
 
 -   Graduate-level thesis in ecology, evolutionary biology, or environmental science
 -   Introductory R programming experience
 
-### Required materials
+## Required materials
 
 -   Personal computer with videoconferencing ability and reliable internet access
-
 -   R and RStudio
-
     -   Please see [these instructions](https://canvas.ubc.ca/courses/97664/pages/instructions-for-students-r-and-rstudio "Instructions for students: R and RStudio") for installing the latest versions R and RStudio, or checking which versions you're currently running
 
 Note: we focus on the use of open-source and free software and tools to maximize accessibility.
 
-### Assessments
+## Assessments
 
 -   [Mental model](https://canvas.ubc.ca/courses/97664/assignments/1189511 "Mental model (individual assignment)") (individual; 25%) --- develop a mental model for your research\
     Due date: Tuesday 12 October 2021 \@ 11:59 pm PDT
-
 -   [Meta-evaluation of data synthesis](https://canvas.ubc.ca/courses/97664/assignments/1189512 "Meta-evaluation of meta-analysis (individual assignment)") (individual; 65%) --- evaluate a meta-analysis or data aggregation study against the 10 appraisal questions from (or inspired from) [Nakagawa et al. (2017)](https://canvas.ubc.ca/courses/97664/files/19784705?wrap=1 "Nakagawa et al. 2017 BMC Biol.pdf") Due date: Wednesday 10 November 2021 \@ 11:59 pm PST (after end of course)
-
 -   [Participation](https://canvas.ubc.ca/courses/97664/assignments/1189513 "Participation") (10%) --- individual participation in class activities
 
-### Online resources
+## Online resources
 
 All relevant course materials will be housed on Canvas. All public materials for this and associated courses will also be archived and available on the Open Science Framework (OSF) component and wiki pages for the [Living Data Project](https://osf.io/ych3w/)
 
-### Office hours / Getting help
+## Office hours / Getting help
 
-#### Office hours
+### Office hours
 
 Postdocs will host weekly open office hours where you can ask questions about course material, assignments, LDP training opportunities, career development, etc. Students are welcome to attend any office hours that work with their schedule.
 
@@ -106,7 +106,7 @@ Postdocs will host weekly open office hours where you can ask questions about co
 -   Thursdays \@ 4:00 pm - 5:00 pm EDT / 2:00 pm - 3:00 pm CST + MDT / 1:00 pm - 2:00 pm PDT (Gracielle)\
     Join Zoom meeting
 
-#### Getting help
+### Getting help
 
 For help with course material, students are encouraged to contact their primary mentor as follows:
 
@@ -120,13 +120,13 @@ For help with course material, students are encouraged to contact their primary 
 
 You can email the postdocs or course instructor directly from Canvas by navigating to your [Inbox](https://canvas.ubc.ca/conversations#filter=type=inbox) (this will send an email through the address you used to create your CWL). If you cannot reach your designated mentor, please feel free to contact another instructor or teaching assistant.
 
-### Code of conduct
+## Code of conduct
 
 Participation in this course and all other functions of the Living Data Project requires adherence to our [Code of Conduct](https://canvas.ubc.ca/courses/97664/pages/ldp-code-of-conduct "LDP Code of Conduct"). Please review the Code of Conduct before the beginning of the first class.
 
 International students at UBC are directed to read [this statement](https://canvas.ubc.ca/courses/97664/pages/statement-for-review-by-international-students-at-ubc "Statement for review by international students at UBC").
 
-### Territorial acknowledgement
+## Territorial acknowledgement
 
 The Living Data Project is a collaborative effort by researchers at institutions across Canada. We collectively acknowledge that we live and work on the traditional, ancestral, treaty, and unceded territories of many Indigenous peoples, including the Coast Salish Peoples, xwməθkwəy̓əm (Musqueam), Syilx (Okanagan), nêhiyawak (Cree), anihšināpēk (Saulteaux), Dakota, Lakota, Nakoda, Attawanderon, Mississaugas, kanien'kehà:ka (Mohawk), and Haudenosaunee, and the homeland of the Métis/Michif Nation. The LDP brings together instructors and students from many different places with distinct Indigenous traditions and colonial histories.
 

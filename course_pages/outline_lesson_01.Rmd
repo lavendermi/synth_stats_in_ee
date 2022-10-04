@@ -1,0 +1,36 @@
+---
+title: "Outline - Lesson 1"
+output: html_document
+date: "Fall 2023"
+---
+
+# Suggested pre-session readings:
+
+Note: PDFs of all suggested pre-readings are available in the [Files](https://canvas.ubc.ca/courses/97664/files "Files") section of the Canvas component for this course. They have also been linked to the lesson in the [Modules](https://canvas.ubc.ca/courses/97664/modules "Modules") view.
+
+-   Sharpe, D., and Poets, S. (2020). Meta-analysis as a response to the replication crisis. *Canadian Psychology*, 61. 377-387. <http://dx.doi.org/10.1037/cap0000215>
+-   Stewart, G. (2010). Meta-analysis in applied ecology. *Biology Letters*, 6, 78-81. <https://doi.org/10.1098/rsbl.2009.0546>
+
+# In-session activities:
+
+1.  Questions / admin (5 min)
+
+2.  Introductions (Jennifer Sunday; 15 min)
+
+    -   Introduction to instructors, postdocs, and teaching assistant
+    -   Overview of the course and expectations re: activities and [assignments](https://canvas.ubc.ca/courses/97664/assignments "Assignments")
+    -   [Code of Conduct](https://canvas.ubc.ca/courses/97664/pages/ldp-code-of-conduct "LDP Code of Conduct"): respectful participation in the Living Data Project modules
+    -   Refer to web/Canvas resources, including instructions for accessing course materials, assignment submission, discussion boards, etc.
+    -   Inform students of privacy requirements and precautions
+
+3.  Lecture (Jennifer Sunday; 50 min)
+
+    -   Introduction to data synthesis
+    -   Meta-analysis versus data aggregation in synthesis research
+    -   Data synthesis as a tool to address the replicability crisis in E&E
+    -   See: lesson 1 lecture slides (to be added)
+
+# Supporting materials:
+
+-   Law, Y.-H. (2018). Replication failures highlight biases in ecology and evolution science. *The Scientist*. <https://www.the-scientist.com/features/replication-failures-highlight-biases-in-ecology-and-evolution-science-64475>
+-   Osenberg, C.W., Sarnelle, O., Cooper, S.D., and Holt, R.D. (1999). Resolving ecological questions through meta-analysis: goals, metrics, and models. *Ecology*, 80, 1105-1117. [https://doi.org/10.1890/0012-9658(1999)080[1105:REQTMA]2.0.CO;2](https://doi.org/10.1890/0012-9658(1999)080%5B1105:REQTMA%5D2.0.CO;2)
